@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="20" y1="10" x2="100" y2="110">
+      <stop stop-color="#f5e0a3"/>
+      <stop offset="1" stop-color="#a67c2d"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="28" fill="url(#bg)"/>
+  <text x="60" y="68" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="22" font-weight="800" fill="#1a1200" letter-spacing="-0.5">VLTX</text>
+</svg>
